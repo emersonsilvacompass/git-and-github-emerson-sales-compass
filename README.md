@@ -1,12 +1,11 @@
-# Treinamento de Automação de Testes - Compass UOL & Natura
+# Treinamento de Automação de Testes - Introdução a automação WEB
 
 ## Sobre mim
 Olá! Eu sou o Emerson Sales, QE na Natura. Tenho experiência com automação de testes usando cypress. 
-Minhna expectativa com o curso é consolidar meus conhecimentos e aprimorar. 
+Minha expectativa com o curso é consolidar meus conhecimentos e aprimorar. 
 
 ## Dicionário Git do QA
 | Termo | O que significa |
-| :--- | :--- |
 | **Commit** | É como salvar um "checkpoint" ou tirar uma foto do estado atual do meu código. |
 | **Push** | É o ato de "empurrar" as minhas alterações locais para o servidor (GitHub). |
 | **Pull** | É quando eu "puxo" as atualizações que meus colegas enviaram para o servidor. |
