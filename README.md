@@ -6,6 +6,7 @@ Minha expectativa com o curso é consolidar meus conhecimentos e aprimorar.
 
 ## Dicionário Git do QA
 | Termo | O que significa |
+| :--- | :--- |
 | **Commit** | É como salvar um "checkpoint" ou tirar uma foto do estado atual do meu código. |
 | **Push** | É o ato de "empurrar" as minhas alterações locais para o servidor (GitHub). |
 | **Pull** | É quando eu "puxo" as atualizações que meus colegas enviaram para o servidor. |
